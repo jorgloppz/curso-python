@@ -5,6 +5,10 @@ print(type(y))
 
 a = 1.2e3
 
+print((x + y))
+print((x + x))
+print((y + y))
+
 is_true = True
 is_false = False
 print(type(is_true))
